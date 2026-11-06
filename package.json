@@ -1,0 +1,10 @@
+{
+  "name": "manychat-proprio",
+  "version": "1.0.0",
+  "description": "Automação de Instagram: comentou a palavra-chave, recebe DM. Roda grátis na Vercel.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
