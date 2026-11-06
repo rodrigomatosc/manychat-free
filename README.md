@@ -15,7 +15,7 @@ Você precisa de:
 
 ## Como instalar (5 minutos)
 
-1. Clique no botão **Deploy with Vercel** acima.
+1. Clique no botão **Deploy** acima.
 2. Entre com o GitHub. A Vercel cria uma cópia deste projeto na sua conta.
 3. Preencha as variáveis (veja a tabela abaixo) e clique em **Deploy**.
 4. Copie a URL do projeto e acrescente `/api/webhook` no final:
