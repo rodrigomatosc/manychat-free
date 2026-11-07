@@ -2,7 +2,7 @@
 
 Comentou a palavra-chave no seu post → recebe uma DM automática. Grátis, sem mensalidade.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frodrigomatosc%2Fmanychat-proprio&project-name=manychat-proprio&repository-name=manychat-proprio&env=IG_ACCESS_TOKEN,VERIFY_TOKEN,KEYWORD,DM_MESSAGE&envDescription=Token%20do%20Instagram%2C%20senha%20do%20webhook%2C%20palavra-chave%20e%20mensagem%20da%20DM&envLink=https%3A%2F%2Fgithub.com%2FSEU-USUARIO%2Fmanychat-proprio%23variáveis)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frodrigomatosc%2Fmanychat-free&project-name=manychat-proprio&repository-name=manychat-proprio&env=IG_ACCESS_TOKEN,VERIFY_TOKEN,KEYWORD,DM_MESSAGE&envDescription=Token%20do%20Instagram%2C%20senha%20do%20webhook%2C%20palavra-chave%20e%20mensagem%20da%20DM&envLink=https%3A%2F%2Fgithub.com%2FSEU-USUARIO%2Fmanychat-proprio%23variáveis)
 
 ## Antes de clicar no botão
 
